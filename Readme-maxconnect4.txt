@@ -1,5 +1,4 @@
 Name: Suyog S Swami
-Students ID: 1001119101
 Language Used: Python 2.4
 
 How to run the program:
