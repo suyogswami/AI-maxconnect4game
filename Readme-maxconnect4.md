@@ -21,6 +21,3 @@ The suyogsmaxconnect4.py contains the main function has conditions to follow one
 If depth is not provided it works for whole 42 level and takes longer time.. hence puting a level depth of 5-6 is a better idea.
 
 The MaxCOnnect4Game.py contains scoring, printing, checking board, evaluation(for depth limited) and utility function for complete level.etc
-
-
-*******"I would like to take part in the tournament"********
